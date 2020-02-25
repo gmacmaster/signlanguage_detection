@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>260.jpg</filename>
+	<path>C:\Users\gordo\Documents\College\Senior Year\Thesis\Retrying training the model\images\train\260.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>x</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>499</xmin>
+			<ymin>94</ymin>
+			<xmax>668</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>
